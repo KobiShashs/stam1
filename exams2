@@ -1,0 +1,102 @@
+[
+  {
+    "name": "OOP Exam",
+    "exam_data": "Exam data for OOP Exam",
+    "exam_base64": "Base64 encoded data for OOP Exam",
+    "exam_location": "Java",
+    "exam_data_type": "Type A",
+    "creator": {
+      "email": "kobi.shasha@example.com",
+      "roles": "Role A",
+      "company_email": "john.bryve@example.com",
+      "company_name": "John Bryve",
+      "created_at": "2023-07-09T10:00:00Z",
+      "updated_at": "2023-07-09T12:00:00Z"
+    },
+    "owner_company_email": "owner@example.com",
+    "owner_company_name": "Owner Company",
+    "is_available": true,
+    "created_at": "2023-07-09T15:00:00Z",
+    "updated_at": "2023-07-09T18:00:00Z"
+  },
+  {
+    "name": "APIs Exam",
+    "exam_data": "Exam data for APIs Exam",
+    "exam_base64": "Base64 encoded data for APIs Exam",
+    "exam_location": "Java",
+    "exam_data_type": "Type B",
+    "creator": {
+      "email": "kobi.shasha@example.com",
+      "roles": "Role A",
+      "company_email": "john.bryve@example.com",
+      "company_name": "John Bryve",
+      "created_at": "2023-07-09T10:00:00Z",
+      "updated_at": "2023-07-09T12:00:00Z"
+    },
+    "owner_company_email": "owner@example.com",
+    "owner_company_name": "Owner Company",
+    "is_available": true,
+    "created_at": "2023-07-09T15:00:00Z",
+    "updated_at": "2023-07-09T18:00:00Z"
+  },
+  {
+    "name": "Spring Boot Exam",
+    "exam_data": "Exam data for Spring Boot Exam",
+    "exam_base64": "Base64 encoded data for Spring Boot Exam",
+    "exam_location": "Java",
+    "exam_data_type": "Type C",
+    "creator": {
+      "email": "kobi.shasha@example.com",
+      "roles": "Role A",
+      "company_email": "john.bryve@example.com",
+      "company_name": "John Bryve",
+      "created_at": "2023-07-09T10:00:00Z",
+      "updated_at": "2023-07-09T12:00:00Z"
+    },
+    "owner_company_email": "owner@example.com",
+    "owner_company_name": "Owner Company",
+    "is_available": true,
+    "created_at": "2023-07-09T15:00:00Z",
+    "updated_at": "2023-07-09T18:00:00Z"
+  },
+  {
+    "name": "Java Exam 1",
+    "exam_data": "Exam data for Java Exam 1",
+    "exam_base64": "Base64 encoded data for Java Exam 1",
+    "exam_location": "Java",
+    "exam_data_type": "Type A",
+    "creator": {
+      "email": "kobi.shasha@example.com",
+      "roles": "Role A",
+      "company_email": "john.bryve@example.com",
+      "company_name": "John Bryve",
+      "created_at": "2023-07-09T10:00:00Z",
+      "updated_at": "2023-07-09T12:00:00Z"
+    },
+    "owner_company_email": "owner@example.com",
+    "owner_company_name": "Owner Company",
+    "is_available": true,
+    "created_at": "2023-07-09T15:00:00Z",
+    "updated_at": "2023-07-09T18:00:00Z"
+  },
+  {
+    "name": "Java Exam 2",
+    "exam_data": "Exam data for Java Exam 2",
+    "exam_base64": "Base64 encoded data for Java Exam 2",
+    "exam_location": "Java",
+    "exam_data_type": "Type B",
+    "creator": {
+      "email": "kobi.shasha@example.com",
+      "roles": "Role A",
+      "company_email": "john.bryve@example.com",
+      "company_name": "John Bryve",
+      "created_at": "2023-07-09T10:00:00Z",
+      "updated_at": "2023-07-09T12:00:00Z"
+    },
+    "owner_company_email": "owner@example.com",
+    "owner_company_name": "Owner Company",
+    "is_available": true,
+    "created_at": "2023-07-09T15:00:00Z",
+    "updated_at": "2023-07-09T18:00:00Z"
+  }
+]
